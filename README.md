@@ -18,7 +18,7 @@ En la actualidad, el desarrollo de software se apoya en metodologías ágiles, c
 - **1995** – Lenguajes como **JavaScript** e interfaces web explotan. {index=6}  
 - **2001** – Nace el **Manifiesto Ágil**, nuevas formas de trabajar con software. 
 - **2010s** – **DevOps**, contenedores (**Docker**) y prácticas modernas. 
-- **2020s** – Software orientado a la nube, IA y herramientas colaborativas. 
+- **2020s** – Software orientado a la nube, IA y herramientas colaborativas
 
 ## 📌 Enlace de referencia
 Consulta más detalles sobre esta evolución aquí:  
